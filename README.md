@@ -55,4 +55,3 @@
 - git ls-files: To view the list of committed files in local repo
 - git log : To view the change log
 - git revert commitID : To revert to the previous commit
-
