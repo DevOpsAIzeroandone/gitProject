@@ -41,10 +41,16 @@
 
 ### GIT
 
-* Working directory is also knows as untracked area.
+- Working directory is also knows as untracked area.
 
 - Version - git --version
 - git config --global user.name "Anil Simha"
 - git config --global user.email "<tanilsimha@gmail.com>"
 - git config --global --list
 - git init : To initialize the empty repository
+- git add -A : To add all the untracked files
+- git status : To see what all files are committed and not
+- git rm --cached fileName : To unstage
+- git commit -m "commit message" : To commit the files
+- git ls-files: To view the list of committed files in local repo
+- git log : To view the change log
