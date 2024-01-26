@@ -53,6 +53,4 @@
 - git rm --cached fileName : To unstage
 - git commit -m "commit message" : To commit the files
 - git ls-files: To view the list of committed files in local repo
-- git log : To view the change log in detailed
-- git log --oneline : High level view
-- git show "commitID" : To view details from that particular commitID
+- git log : To view the change log
